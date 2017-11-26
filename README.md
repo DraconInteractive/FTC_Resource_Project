@@ -8,6 +8,11 @@ Hopefully, it will be the perfect place for you to continue your learning!
 ## Getting Started
 
 Before you start, make sure you have Unity 2017.1 on your computer! Then, download the project using the green 'clone or download' button. 
+```
+Unity releases new versions all the time. All the code in this project (at time of writing) will scale with their API Checker. 
+So, if you have Unity 2017.2, or Unity 2017.3, you can follow the same instructions!
+It will just do a little conversion when it opens. Remember to click yes on the dialog!
+```
 Once it has loaded, open Unity. 
 In Unity, browse to the containing folder, and click 'Select Folder'. Voila, project open!
 
